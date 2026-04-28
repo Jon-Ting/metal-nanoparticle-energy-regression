@@ -23,4 +23,5 @@ venv/
 .qodo
 
 # Large Data
-*.pkl
+data/hpTune/
+data/processed/
